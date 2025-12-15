@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/img/logo-black.564109d.png";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/logo-black.png
+// module id = mxas
+// module chunks = 1
