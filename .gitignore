@@ -6,3 +6,5 @@ dist/
 coverage/
 .vscode/
 .idea/
+package-lock.json
+client/package-lock.json
